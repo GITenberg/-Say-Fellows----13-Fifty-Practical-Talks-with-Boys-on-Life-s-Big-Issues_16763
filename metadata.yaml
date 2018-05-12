@@ -1,0 +1,28 @@
+_repo: -Say-Fellows----13-Fifty-Practical-Talks-with-Boys-on-Life-s-Big-Issues_16763
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Wade C. (Wade Cothran)
+    birthdate: 1869
+    deathdate: 1960
+    gutenberg_agent_id: '6915'
+    url: http://www.gutenberg.org/2009/agents/6915
+description: ''
+gutenberg_issued: '2005-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16763'
+  lccn: '21027474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life'
+- !lcsh 'Boys'
+title: "\"Say Fellows—\"\r\nFifty Practical Talks with Boys on Life's Big Issues"
+url: http://www.gutenberg.org/ebooks/16763
